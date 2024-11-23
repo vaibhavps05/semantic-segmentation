@@ -79,7 +79,7 @@ Here are some sample results from the segmentation:
 
 
 ### Video Segmentation
-(YT link to be added)
+https://youtu.be/OkfR1oddNaU
 
 
 
