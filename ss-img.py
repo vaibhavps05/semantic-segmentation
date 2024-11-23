@@ -5,7 +5,7 @@ import numpy as np
 import os  
 import imutils 
  
-ORIG_IMG_FILE = './data/test/test_image_2.jpg'
+ORIG_IMG_FILE = 'test/test_image_4.jpg'
 ENET_DIMENSIONS = (1024, 512) # dimensions that ENet was trained on
 RESIZED_WIDTH = 600
 IMG_NORM_RATIO = 1 / 255.0 
